@@ -1,0 +1,11 @@
+- *NPX* stands for Node Package eXecute. It is simply an NPM package runner. It allows developers to execute any Javascript Package available on the NPM registry without even installing it.NPX is installed automatically with NPM version 5.2
+
+- NPM stands for Node Package Manager. It is a Javascript package manager and the default package manager for Node projects.
+
+- npm start 
+
+- NOTES!! :
+ -1- index.js is the first file to execute in react.
+ -2- In React You Build A Component Tree.
+ -3- A Component In React Is Just A Javascript Function.
+ -4- 
